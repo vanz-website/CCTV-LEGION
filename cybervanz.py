@@ -46,10 +46,10 @@ print(white+"""
 ⠈⠳⣽⡺⣭⣗⣶⠟⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠛⠒⠦⢤⣭⣉⡉⠒⠒⠒⠒⠒⠒⠒⣉⣩⣵⠶⠚⠋⠉⠀⠀⠀⠀⠀⠀⠀⠈⠳⣄⠀⠨⣷⣫⣿⣯⣺⣷
 ⠀⠀⠀⠉⠉⠉⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠉⠉⠉⠉⠉⠉⠉⠉⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠳⣌⡿⣿⣿⣿⣽⡿
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ⠀⠈⣿⣿⣿⡿⢋⠀⠀""")
-print(red+'|Devoloped By : SpeacterX0')
+print(red+'|Devoloped By : Cyber Vanz')
 print(red+'÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷')
-print(red+'Youtube Chanel: SpeacterXo')                                                              
-print(red+'Telegarm Grop : https://t.me/speacterx')                                         
+print(red+'Youtube Chanel: Private')                                                              
+print(red+'Telegarm Grop : Private')                                         
 print(red+'Fuck!!')            
 print(red+'÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷')
 print(red+'1) United States            47)Singapore')
